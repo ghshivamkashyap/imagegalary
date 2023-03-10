@@ -58,6 +58,8 @@ img{
 }
 
 figcaption{
+  background-color: transparent;
+  color: white;
     position: absolute;
     bottom: 15px;
     left: 15px;
